@@ -1,16 +1,47 @@
-# React + Vite
+# GamePort Africa Storefront
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎮 GamePort Africa is a React-based e-commerce storefront for games, consoles, and accessories.  
+It includes a public-facing shop and an **Admin Portal** for managing products.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Landing Page**: Welcome page with navigation.
+- **Shop Page**: General storefront.
+- **Category Pages**:
+  - `/consoles` → Lists all consoles
+  - `/accessories` → Lists all accessories
+  - `/playstation` → Lists all consoles (PlayStation section)
+  - `/games` → Lists all games
+- **Admin Portal**:
+  - Add new products (name, image, price, category)
+  - Edit existing products (PATCH request)
+  - Delete products (DELETE request)
+- **Navigation Bar**:
+  - Dropdown menus for Stores, PlayStation, Games
+  - Search bar with focus and query handling
+  - Admin button (links to `/admin`)
+  - Logo (links back to `/` landing page)
+- **Footer**: Always visible across pages.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (with Vite or CRA)
+- **React Router DOM** for routing
+- **Tailwind CSS** for styling
+- **JSON Server** for mock backend (games, consoles, accessories)
+- **Hooks**:
+  - `useState` for local state
+  - `useEffect` for data fetching
+  - `useId` for accessible form inputs
+  - `useRef` for search bar focus
+  - `useContext` for global admin state
+  - Custom hook: `useProducts` for product CRUD
+
+---
+
+## 📂 Project Structure
+

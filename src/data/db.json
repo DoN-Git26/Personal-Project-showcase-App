@@ -1,0 +1,184 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "name": "NBA 2K27",
+      "price": 69.99,
+      "image": "https://image.api.playstation.com/pr/bam-art/230/915/f6a2193a-dc06-49e0-a924-1b4427b8752a.jpg?w=620&thumb=false"
+    },
+    {
+      "id": "3",
+      "name": "Grand Theft Auto VI",
+      "price": 25,
+      "image": "https://image.api.playstation.com/pr/bam-art/233/670/205f5ca6-c937-4312-aae4-ee53e9eb8589.jpg?w=620&thumb=false"
+    },
+    {
+      "id": "4",
+      "name": "EA SPORTS Madden NFL 27",
+      "price": 69.99,
+      "image": "https://image.api.playstation.com/pr/bam-art/233/902/c93e43a3-4a3f-4a67-9aaa-1a8c54020464.jpg?w=620&thumb=false"
+    },
+    {
+      "id": "5",
+      "name": "EA SPORTS FC 27",
+      "price": 99.99,
+      "image": "https://image.api.playstation.com/pr/bam-art/233/670/264dd8c5-f4d0-49e3-87f3-a3001a0f7b7c.jpg?w=620&thumb=false"
+    },
+    {
+      "id": "6",
+      "name": "Battlefield 6",
+      "price": 79.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2025/09/bf6-redsec-keyart-1x1-nologo.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Plants vs Zombies Reimagined",
+      "price": 49.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2025/07/pvzr-key-art.png.adapt.crop1x1.767p.png"
+    },
+    {
+      "id": "8",
+      "name": "NHL 26",
+      "price": 69.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2025/08/nhl26-keyart-1x1.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Split",
+      "price": 59.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2024/12/splitkeyart1x1.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Immortals",
+      "price": 69.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2022/12/immortals-1x1.jpg.adapt.crop1x1.767w.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Star Wars Jedi: Survivor",
+      "price": 79.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2022/06/star-wars-jedi-survivor-keyart.jpg.adapt.crop1x1.767w.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Dead Space (Remake)",
+      "price": 79.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2022/09/dead-space-game-box-key-art.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Crysis Remastered Trilogy",
+      "price": 89.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2024/02/crysis-remaster-trilogy-gametile-1x1.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Dead Space Classic",
+      "price": 39.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2022/09/dead-space-classic-keyart.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Bejeweled 3",
+      "price": 19.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/bejeweled-3-key-art.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Battlefield 6 Box Art",
+      "price": 79.99,
+      "image": "https://media.contentapi.ea.com/content/dam/gin/images/2025/08/bf6-box-art-1x1.jpg.adapt.crop1x1.767p.jpg"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": "hzJD95Iy0qE"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": "HWYgrtX2080"
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": "bdtMSwaG_6Q"
+    }
+  ],
+  "consoles": [
+    {
+      "id": "1",
+      "name": "PS5 Slim Disc",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-slim-disc-console-featured-hardware-image-block-02-en-15nov23?$1200px$"
+    },
+    {
+      "id": "2",
+      "name": "PS5 Console Covers",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-console-cover-range-image-block-01-en-16feb22?$1200px$"
+    },
+    {
+      "id": "3",
+      "name": "Xbox Series X",
+      "image": "https://cms-assets.xboxservices.com/assets/1d/c9/1dc9f1ac-1fa4-4f2d-8bda-c2b1d6ee1a3f.jpg?n=Shop-Consoles_Content-Placement-0_036489_788x444_02.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Xbox Series S",
+      "image": "https://cms-assets.xboxservices.com/assets/d9/3b/d93bd8d3-52d5-47c3-85aa-55badf59ea83.jpg?n=Shop-Consoles_Content-Placement-0_642227_788x444_02.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Xbox One",
+      "image": "https://assets.xboxservices.com/assets/b0/46/b04673d6-73d4-4ac0-9f5c-8e311931841e.jpg?n=Shop-Consoles_Content-Placement-0_389964_788x444.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Xbox Series X Hub",
+      "image": "https://assets.xboxservices.com/assets/12/7e/127e5830-82cb-4f6c-beef-4f9a0c970430.jpg?n=Consoles-Hub_Content-Placement_Hub-SX_788x444.jpg"
+    },
+    {
+      "name": "Nintendo Switch",
+      "image": "https://assets.nintendo.com/image/upload/b_white/ar_1.0,c_auto_pad,g_auto:thirds_0,b_auto:border/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Controllers/Controller%20Accessories/126470-nintendo-switch-2-joy-con-grip-2000x2000",
+      "price": 24.99,
+      "id": "v7DfX8sjmQ0"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "1",
+      "name": "PULSE Elite Headset",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/PULSE-Elite-headset-thumbnail-01-en-08sep23?$1200px$"
+    },
+    {
+      "id": "2",
+      "name": "PULSE Explore Earbuds",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/PULSE-Explore-earbuds-image-block-01-en-08sep23?$1200px$"
+    },
+    {
+      "id": "3",
+      "name": "DualSense Edge Controller",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-edge-featured-hardware-image-block-01-en-11aug23?$1200px$"
+    },
+    {
+      "id": "4",
+      "name": "Access Controller",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/access-controller-featured-hardware-image-block-01-en-12oct23?$1200px$"
+    },
+    {
+      "id": "5",
+      "name": "DualSense Range",
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-range-stacked-image-block-01-en-11feb22?$1200px$"
+    },
+    {
+      "name": "Wireless Controller",
+      "image": "https://assets.nintendo.com/image/upload/b_white/ar_1.0,c_auto_pad,g_auto:thirds_0,b_auto:border/f_auto/q_auto/dpr_1.5/c_scale,w_300/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Accessories/Controllers/turtle-beach-afterglow-wireless-led-controller-127640/127640-turtle-beach-afterglow-wireless-led-controller-purple-front-2000x2000",
+      "price": 64.99,
+      "id": "M--Xep-9Q7s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

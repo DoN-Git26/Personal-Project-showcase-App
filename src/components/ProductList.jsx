@@ -5,7 +5,7 @@ function ProductList({ products, onUpdate, onDelete }) {
     <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
       {products.map((product) => (
         <ProductCard
-          key={product.id}
+          key={`${product.category}-${product.id}`}
           product={product}
           onUpdate={onUpdate}
           onDelete={onDelete}
