@@ -9,7 +9,6 @@ function LandingPage() {
   const [showAllConsoles, setShowAllConsoles] = useState(false);
   const [showAllAccessories, setShowAllAccessories] = useState(false);
 
-  // Fetch data from JSON Server
   useEffect(() => {
     fetch("http://localhost:5000/games")
       .then((res) => res.json())
@@ -24,7 +23,6 @@ function LandingPage() {
       .then((data) => setAccessories(data));
   }, []);
 
-  // Render helper
   const renderGrid = (items, showAll, setShowAll) => {
     const visibleItems = showAll ? items : items.slice(0, 7);
 

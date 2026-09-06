@@ -9,12 +9,10 @@ function Header() {
     setOpenMenu(openMenu === menu ? null : menu);
   };
 
-  // Simple search handler
   const handleSearch = (e) => {
     e.preventDefault();
     const query = searchRef.current.value.trim();
     if (query) {
-      // For now just log or alert; later you can route to a search results page
       alert(`Searching for: ${query}`);
     }
   };
@@ -22,7 +20,6 @@ function Header() {
   return (
     <header className="bg-white text-sky-700 shadow-md px-6 py-3">
       <div className="flex items-center justify-between">
-        {/* Left: Admin + Logo */}
         <div className="flex items-center space-x-4">
           <Link
             to="/admin"
@@ -31,14 +28,12 @@ function Header() {
             Admin
           </Link>
 
-          {/* Logo clickable to home */}
           <Link to="/" className="flex items-center space-x-2 hover:text-sky-500">
             <span className="text-2xl">🎮</span>
             <h1 className="text-xl font-bold">GamePort Africa</h1>
           </Link>
         </div>
 
-        {/* Middle: Navigation */}
         <nav className="flex space-x-8">
           <div className="relative">
             <button onClick={() => toggleMenu("stores")} className="hover:text-sky-500">
@@ -56,7 +51,6 @@ function Header() {
           <Link to="/games" className="hover:text-sky-500">Games</Link>
         </nav>
 
-        {/* Right: Sign In + Search */}
         <div className="flex items-center space-x-4">
           <Link
             to="/signin"
